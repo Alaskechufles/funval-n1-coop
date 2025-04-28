@@ -1,0 +1,24 @@
+{
+  "name": "funval-n1-coop",
+  "version": "1.0.0",
+  "description": "Diego Huarsaya\r Kevin Rodríguez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alaskechufles/funval-n1-coop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alaskechufles/funval-n1-coop/issues"
+  },
+  "homepage": "https://github.com/Alaskechufles/funval-n1-coop#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  }
+}
