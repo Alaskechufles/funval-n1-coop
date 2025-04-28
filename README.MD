@@ -6,3 +6,5 @@ Diego Huarsaya
 Kevin Rodríguez
 
 ## Compas
+
+Ricardo Adán
