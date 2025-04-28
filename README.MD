@@ -7,6 +7,8 @@ Kevin Rodríguez
 
 ## Compas
 
+Luis Z
+
 Gino
 
 Ricardo Adán
@@ -20,3 +22,4 @@ Juaquin Morales🤑
 Tomas
 
 Andres
+
