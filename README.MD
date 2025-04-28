@@ -6,3 +6,4 @@ Diego Huarsaya
 Kevin Rodríguez
 
 ## Compas
+Ana
