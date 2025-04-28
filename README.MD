@@ -7,7 +7,7 @@ Kevin Rodríguez
 
 ## Compas
 
-Kevin
+marcelo
 
 Luis Z
 
@@ -24,5 +24,3 @@ Juaquin Morales🤑
 Tomas
 
 Andres
-
-
