@@ -7,4 +7,17 @@ Kevin Rodríguez
 
 ## Compas
 
+
 Ricardo Adán
+
+Cristian Ricardo
+
+Ana
+
+Juaquin Morales🤑
+
+Tomas
+
+Andres
+
+
