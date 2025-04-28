@@ -6,23 +6,5 @@ Diego Huarsaya
 Kevin Rodríguez
 
 ## Compas
-
-Kevin
-
-Luis Z
-
-Gino
-
-Ricardo Adán
-
-Cristian Ricardo
-
 Ana
-
-Juaquin Morales🤑
-
-Tomas
-
-Andres
-
-
+jjksn
