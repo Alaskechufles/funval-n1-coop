@@ -8,7 +8,10 @@ Kevin Rodríguez
 ## Compas
 
 
+Juaquin Morales🤑
+
 Tomas
 
 Andres
+
 
